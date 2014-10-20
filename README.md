@@ -19,3 +19,5 @@ Bracketed superscripted links indicate alternate designs for the pieces, usually
 | [Stabilizer Legs](assets/Stabilizer Leg.stl) | 0:44 |
 | [Steps](assets/Step.stl) | 1:12 |
 | [Stick](assets/Stick.stl) | 3:40 |
+
+Published with permission from [WOOD Magazine](http://www.woodmagazine.com/). All original plans for the [Construction-grade Backhoe Loader](http://www.woodstore.net/cobalo.html) are copyright &copy; 2014 Meredith Corporation.
