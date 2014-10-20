@@ -1,13 +1,15 @@
+Bracketed superscripted links indicate alternate designs for the pieces, usually to reduce printing time.
+
 | Part | Print Time |
 |------|------------|
 | [Booms](assets/Boom.stl) | 13:40 |
 | [Brackets](assets/Bracket.stl) | 0:54 |
 | [Bucket Brackets](assets/Bucket Bracket.stl) | 0:09 |
 | [Bucket](assets/Bucket.stl) | 5:06 |
-| [Cab](assets/Cab.stl) | 18:57 |
-| [Chassis](assets/Chassis.stl) | 8:54 |
+| [Cab](assets/Cab.stl) <sup>[1](assets/Cab Bottom.stl "The bottom of the cab, hollow.")</sup> <sup>[2](assets/Cab Top.stl "The top of the cab; weld it to the hollow bottom.")</sup> | 18:57 |
+| [Chassis](assets/Chassis.stl) <sup>[1](assets/Chassis Back Hollow Bottom.stl "Save lots of time and plastic by printing the large piece of the chassis in two parts and gluing together.")</sup> <sup>[2](assets/Chassis Back Hollow Top.stl "The 2nd part of the chassis glue-up.")</sup> <sup>[3](assets/Chassis Front.stl "The piece of the chassis that is separated by the front axle.")</sup> | 8:54 |
 | [Front Axle](assets/Front Axle.stl) | 1:30 |
-| [Hood](assets/Hood.stl) | 6:42 |
+| [Hood](assets/Hood.stl) <sup>[1](assets/Hood Hollow.stl "Save time and plastic by printing the hood hollow and upside-down.")</sup> | 6:42 |
 | [Loader Arms](assets/Loader Arm.stl) | 9:14 |
 | [Loader](assets/Loader.stl) | 5:19 |
 | [Pivot Block](assets/Pivot Block.stl) | 0:35 |
