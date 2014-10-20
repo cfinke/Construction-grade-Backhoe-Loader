@@ -1,3 +1,12 @@
+I converted a set of woodworking plans for a [Construction-grade Backhoe Loader](http://www.woodstore.net/cobalo.html) from WOOD Magazine into a set of 3D-printable models. Files for the parts I printed are available here, along with some instructions on printing them. 
+
+I printed in ABS and did some post-print gluing and welding with an acetone/ABS slurry.  I did not print the wheels, pegs,  smokestack, or any hardware, all of which are available in the [project kit](http://www.woodstore.net/cobalo.html).
+
+
+These files are published with permission from [WOOD Magazine](http://www.woodmagazine.com/). All original plans for the [Construction-grade Backhoe Loader](http://www.woodstore.net/cobalo.html) are copyright &copy; 2014 Meredith Corporation. If you like the project, consider buying the plans and/or the project kit.
+
+Parts
+-----
 Bracketed superscripted links indicate alternate designs for the pieces, usually to reduce printing time.
 
 | Part | Print Time |
@@ -20,4 +29,3 @@ Bracketed superscripted links indicate alternate designs for the pieces, usually
 | [Steps](assets/Step.stl) | 1:12 |
 | [Stick](assets/Stick.stl) | 3:40 |
 
-Published with permission from [WOOD Magazine](http://www.woodmagazine.com/). All original plans for the [Construction-grade Backhoe Loader](http://www.woodstore.net/cobalo.html) are copyright &copy; 2014 Meredith Corporation.
